@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>First_post on </title>
+    <link>/tags/first_post/</link>
+    <description>Recent content in First_post on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>info@sambw.me (Sam Bennett-Williams)</managingEditor>
     <webMaster>info@sambw.me (Sam Bennett-Williams)</webMaster>
     <copyright>Sam Bennett-Williams</copyright>
     <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Men in the Night</title>
-      <link>/posts/poem--men-in-the-night/</link>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/posts/poem--men-in-the-night/</guid>
-      <description>&lt;p&gt;Dark shadows at the window&#xA;Dark houses are silent.&#xA;Dogs stop barking.&#xA;Wind stops blowing.&#xA;Figures keep coming.&#xA;Seconds take minutes&#xA;Minutes take hours&#xA;Hours take days.&#xA;Men in the night take people&#xA;Away… away,&#xA;To where they’ll never come back.&#xA;Men in the night keep coming.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Poem that I wrote many years ago&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="/tags/first_post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reason for the Blog</title>
       <link>/posts/reason-for-the-blog/</link>
