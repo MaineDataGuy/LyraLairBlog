@@ -1,4 +1,4 @@
-#baseURL = 'https://example.org/'
+#baseURL = 'https://blog.lyralair.com/'
 
 author = "Sam Bennett-Williams"
 copyright = "Sam Bennett-Williams"
@@ -18,7 +18,7 @@ theme = "tailwind"
     logo = "logo.png"
 
   [params.footer]
-    since = 2023
+    since = 2024
     poweredby = true
 
 [menu]
