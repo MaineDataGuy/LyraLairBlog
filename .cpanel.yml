@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+  #copy all from the root (
+    -export DEPLOYPATH=/home/lyraoyzl/blog.lyralair.com
+    =/bin/cp -R $DEPLOYPATH
