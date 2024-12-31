@@ -3,7 +3,7 @@ tags:
   - board_games
   - 3D_printing
 title: Making a new game
-Date: 2025-01-03
+Date: 2024-12-31
 Draft?: false
 ---
 Short post this week due to the holiday's.
@@ -16,12 +16,12 @@ Both Nine Men's Morris and The Royal Game of Ur (RGU) looked really fun and simp
 
 After procrastinating the RGU project for weeks as other things got in the way (basement craft table, holiday lego night, actual holiday's) I was doing some random exploring on [Thingaverse](https://www.thingiverse.com/thing:2823072) and found found a model for RGU. Perfect! I have a 3D printer (the AnkerMake M5C), I'll just print off a board, give it a little paint job and then I can test out the game before putting more time into a wooden version!
 
-The board took about 2 hours to print and came out pretty good, although the edges need some clean up
-!![Image Description](/images/Pasted%20image%2020241231105628.png)
+The board took about 2 hours to print and came out pretty good, although the edges need some clean up.
+![[Pasted image 20241231105628.png| 300]]
 
 I printed out 4 of the tetrahedral dice as well, and took the lot out to the garage to sand and decide how I wanted to paint them. Unfortunately I only had a couple choices at the moment for paints, and as a V1 it doesn't matter a ton anyways. I figured denoting the starting location, and the extra move squares would probably be the best, and voila! I have a new board game to play with!
 
-!![Image Description](/images/Pasted%20image%2020241231110704.png)
+![[Pasted image 20241231110704.png| 350]]
 
 I showed my newest creation to Sarah, and we ended up playing a round before dinner. It was a ton of fun and came down to the wire with her beating me at 7 to 6.
 
