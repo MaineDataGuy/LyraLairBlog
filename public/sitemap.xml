@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/4-lessons-learned-from-2024/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/writing_prompt/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/3d_printing/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
@@ -11,13 +23,7 @@
     <loc>/tags/board_games/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/royal-game-of-ur/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>/posts/3-royal-game-of-ur/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/blog/</loc>
@@ -26,13 +32,13 @@
     <loc>/tags/first_post/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/poem--men-in-the-night/</loc>
+    <loc>/posts/1-poem--men-in-the-night/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/poem/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/reason-for-the-blog/</loc>
+    <loc>/posts/2-reason-for-the-blog/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/manifest.json</loc>
