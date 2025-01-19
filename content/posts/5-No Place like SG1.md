@@ -3,7 +3,7 @@ tags:
   - crafts
 title: There's no Place like home
 Date: 2025-01-18
-Draft?: true
+Draft?: false
 ---
 Short post this week, I spent the first couple days this week battling a headache that just wouldn't go away!
 
@@ -19,10 +19,12 @@ A quick cut and some light weeding (peeling off the little bits of vinyl that yo
 
 And, presto! A new shirt created!
 
-![[IMG_20250118_183156.jpg |450]]
+![[IMG_20250118_183156.png| 450]]
 
-All in all, the process was pretty quick and easy, I'm definitely curious to play around with it some more. We'll see how it goes after some wear and washes, but for the price and time, it was well worth it!
+If you don't recognize the symbol, I don't blame you...much, lol. It's from the classic Sci-Fi series StarGate SQ-1, it's the chevron symbol for Earth. Or, home you might say.
 
-Hopefully next week I'll get back to my post that I've been actually wanting to do, creative writing based on listening to a song.
+All in all, the process was pretty quick and easy, I'm definitely curious to play around with it some more. We'll see how the shirt does goes after some wear and wash cycles, but for the price and time, it was well worth it I think.
+
+Hopefully next week I'll get back to my regularly scheduled programming, a post that I've been actually wanting to do, creative writing based on listening to a song.
 
 Until then, have a good week!
