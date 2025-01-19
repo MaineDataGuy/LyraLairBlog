@@ -19,7 +19,7 @@ A quick cut and some light weeding (peeling off the little bits of vinyl that yo
 
 And, presto! A new shirt created!
 
-![[IMG_20250118_183156.png| 450]]
+!![Image Description](/images/Pasted%20image%2020250118183156.png)
 
 If you don't recognize the symbol, I don't blame you...much, lol. It's from the classic Sci-Fi series StarGate SQ-1, it's the chevron symbol for Earth. Or, home you might say.
 
