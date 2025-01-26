@@ -2,8 +2,8 @@
 tags:
   - writing_prompt
   - fiction
-title: Post Title
-Date: 2024-01-26
+title: Story from a Song
+Date: 2025-01-26
 Draft?: true
 ---
 # Premise
