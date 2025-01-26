@@ -9,20 +9,27 @@
     <managingEditor>info@sambw.me (Sam Bennett-Williams)</managingEditor>
     <webMaster>info@sambw.me (Sam Bennett-Williams)</webMaster>
     <copyright>Sam Bennett-Williams</copyright>
-    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Crafts</title>
-      <link>/tags/crafts/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/crafts/</guid>
+      <title>Fiction</title>
+      <link>/tags/fiction/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
+      <guid>/tags/fiction/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing_prompt</title>
       <link>/tags/writing_prompt/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
       <guid>/tags/writing_prompt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crafts</title>
+      <link>/tags/crafts/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
+      <guid>/tags/crafts/</guid>
       <description></description>
     </item>
     <item>
@@ -58,13 +65,6 @@
       <link>/tags/poem/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
       <guid>/tags/poem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fiction</title>
-      <link>/tags/fiction/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/fiction/</guid>
       <description></description>
     </item>
   </channel>
