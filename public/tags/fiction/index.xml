@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing_prompt on </title>
-    <link>/tags/writing_prompt/</link>
-    <description>Recent content in Writing_prompt on </description>
+    <title>Fiction on </title>
+    <link>/tags/fiction/</link>
+    <description>Recent content in Fiction on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>info@sambw.me (Sam Bennett-Williams)</managingEditor>
     <webMaster>info@sambw.me (Sam Bennett-Williams)</webMaster>
     <copyright>Sam Bennett-Williams</copyright>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/writing_prompt/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New year, same problems</title>
-      <link>/posts/4-lessons-learned-from-2024/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/posts/4-lessons-learned-from-2024/</guid>
-      <description>&lt;p&gt;The typical question you hear every January is &amp;ldquo;What&amp;rsquo;s your New Year resolution?&amp;rdquo; which is great and all, but it&amp;rsquo;s basis for self reflection is through the lens of necessary change. While self reflection is good, the optics of necessary change has the potential to be harmful.&lt;/p&gt;&#xA;&lt;p&gt;My wife asked me a question the other day that seemed like a much more interesting angle on self reflection.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;What did you learn from the past year?&amp;rdquo;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Title</title>
       <link>/posts/6-story-from-a-song/</link>
