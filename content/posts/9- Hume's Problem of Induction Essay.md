@@ -1,7 +1,7 @@
 ---
 tags:
-  - tag1
-  - tag2
+  - blog
+  - writing
 title: Hume’s Problem of Induction
 Date: 2025-02-16
 Draft?: false
@@ -34,7 +34,7 @@ And while this method does logically work, it fails in its very purpose to tell 
 
 One of the other major tenants of Rationalism is the idea of innate ideas. Innate ideas are those ideas that are intrinsic in us, they don’t require experience. We are born with them already in us (or our mind); examples of these are mathematical truths (2+2=4), or the idea of God (that he exists, is good, and is all powerful), the concept of time, or other necessary metaphysical principles[^1] As Hume points out in _An Enquiry_ there are several pitfalls to this theory,
 
- > [!quote] 
+
 > “A blind man can form no notion of colors; a deaf man of sounds. Restore either of them that sense in which he is deficient; by opening this new inlet for his sensations, you also open an inlet for the ideas; and he finds no difficulty in conceiving these objects.”  (Hume 168)
 
 Hume’s point here is that if color or sound were innate ideas then a blind or deaf person would know it even without the sense, instead of being “blind” to it until they experience it.
@@ -53,14 +53,14 @@ Hume thinks that all knowledge is like a inverted pyramid, with simple ideas com
 
 An interesting counterexample to this that Hume himself brings up but doesn’t resolve is the missing shade of blue. He points out:
 
-> [!quote] 
+
 > “…Suppose, therefore, a person to have enjoyed his sight for thirty years, and to have become perfectly acquainted with the colours of all kinds except one particular shade of blue, for instance, which it never has been his fortune to meet with. Let all the different shades of that colour, except that single one, be placed before him, descending gradually from the deepest to the lightest; it is plain that he will perceive a blank…”  (Hume 169)
 
 The argument goes like this: say you have a strip of different shades of blue, like they use for painting, ranging from very dark blue to almost white. Now, take one of the shades out of the range and make it so that you can’t tell it was there; then show it to someone who hasn’t seen it before, he will be able to tell that there is a shade missing from the line up. Hume’s point is that if colors are simple ideas from only one sense and the observer hasn’t ever experienced the missing shade, how can he know that a color is missing? If we say that the observer can fill in the missing shade by imagining the combination of the darker and lighter shades on either side of the missing one, this implies that the colors aren’t simple ideas but complex ones or he has innate idea of the missing shade of blue.
 
 Hume continues a couple lines later with:
 
-> [!quote] 
+ 
 > “…though this instance is so singular, that it is scarcely worth our observing, and does not merit that for it alone we should alter our general maxim”  (Hume 169)
 
 Some might think this is interesting because it seems as though Hume is just trying to sweep this major flaw in his theory under the rug; and maybe the missing shade is more problematic then we thought. If it can apply to sight, what about the other four senses? It does seem that Hume recognizes this when he starts off the example, _“…particular shade of blue, for example…”_ this seems to imply that his choice of color (verses a particular smell, or taste) is arbitrary and could have been something else. First off I don’t think that it can be applied to the other senses, although it might be just custom/habit but I can’t imagine thinking up a missing taste or sound like I can a missing shade of blue. Secondly, as in all things in life, there are outliers and one example of color is no reason to throw out the entire theory, especially when it can be solved.
@@ -69,22 +69,22 @@ I think the only way to resolve the missing shade of blue problem without invoki
 
 So on to the problem of Induction, we’ve seen that Relations of Ideas are necessary and have a very firm base but tell us nothing about the world around us, whereas Matters of Fact, while telling us something new about the world around us, are contingent at best and have a somewhat shaky base. If we say that knowledge is based on Matters of Fact, then it’s grounded in experience. But Hume wants to know how direct experience of one object can tell us anything about similar objects or future objects.  It also seems like humans have a tendency to connect events by causality. Things must be either a cause or an effect, and this is how we experience the world around us, so we know Knowledge is grounded in experience but it seems like experience relies on causality, but causality relies on experience. How do we connect events that happen in the past to events that might happen in the future? Why do we connect the sound of thunder with the sight of lightning enough to say that during the next thunderstorm with lightning there will be thunder? We know from experience that things can go differently from what we expect yet we still base our actions/decisions off of those predictions.
 
-> [!quote] 
+ 
 > “I have found that such an object has always been attended with such an effect, and I foresee, that other objects, which are, in appearance, similar, will be attended with similar effects.” (Hume 174)
 
 The above statement is the general case; Hume’s point is what logical step do we take to get from the premise to the conclusion? This is the heart of Hume’s problem of Induction; how do we make the leap from direct experience to predicting the future or any other event that we haven’t experienced? Hume points out that there is no solid logical train from one to the other that he can think of:
 
-> [!quote] 
+ 
 > “The connexion between these propositions is not intuitive. There is required a medium, which may enable the mind to draw such an inference, if indeed it be drawn by reasoning and argument. What that medium is, I must confess, passes my comprehension.”  (Hume 174)
 
  Since we can’t make a leap based on firm logic, how can we then have any knowledge about the world around us? We can’t Hume says but don’t let that stop you:
 
- > [!quote] 
+
 > “And though none but a fool or madman will ever pretend to dispute the authority of experience, or to reject that great guide of human life, it may surely be allowed a philosopher to have so much curiosity at least as to examine the principle of human nature, which gives this mighty authority to experience, and makes us draw advantage from that similarity which nature has placed among different objects”  (Hume 175)
 
 Hume’s ultimate conclusion from the problem of Induction is that while we have a serious problem with causality and knowledge in general we would be idiots to ignore experience. This leads him to think that we do the things we do and believe what we believe not because it’s logically justified but because of custom and habit, we do it and accept it because that’s what we’ve done for thousands of years. He also thinks this applies to our belief in an external, independent world.
 
-> [!quote] 
+
 > “all belief of matter of fact or real existence is derived merely from some object, present to the memory or senses, and a customary conjunction between that and some other object…if flame or snow be presented anew to the senses, the mind is carried by custom to expect heat or cold, and believe that such a quality does exist, and will discover itself upon a nearer approach. This belief is the necessary result of placing the mind in such circumstances” (Hume 178) 
 
 While I acknowledge that the problem of induction is serious, I can’t follow Hume to his full conclusion. Yes, we do things because of custom and habit and that probably applies to how we perceive the world around us, but the belief that there is an external world is logical simply because of the fact that we have experiences, and that those experience are similar to everyone else’s experiences[^3]. I can only follow Hume to the notion that we can’t be certain about any empirical knowledge; I can’t follow him to there being no external world because that would seem to imply that knowledge is never going to be possible no matter what.
@@ -110,8 +110,7 @@ Tremblay, Francois. Graveyard of the Gods. 2005. 27 April 2010 <http://www.grave
 ---
 
 
-[^1]: 
-It seems that whenever rationalists need to explain some principle which is otherwise groundless it becomes an innate idea; God is a great example of this.
+[^1]: It seems that whenever rationalists need to explain some principle which is otherwise groundless it becomes an innate idea; God is a great example of this.
 
 [^2]: One of the problems with strict empiricism is how thought derives from experience but also gives us methods of organizing it. While it is a problem it is not the subject of this paper and so I shall move on only saying that Kant addresses this in his _Critique of Pure Reason._
 
