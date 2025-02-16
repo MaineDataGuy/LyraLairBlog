@@ -12,17 +12,17 @@
     <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tag1</title>
-      <link>/tags/tag1/</link>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/tag1/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag2</title>
-      <link>/tags/tag2/</link>
+      <title>Writing</title>
+      <link>/tags/writing/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/tag2/</guid>
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     <item>
@@ -30,13 +30,6 @@
       <link>/tags/fiction/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
       <guid>/tags/fiction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writing</title>
-      <link>/tags/writing/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     <item>
@@ -72,13 +65,6 @@
       <link>/tags/board_games/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
       <guid>/tags/board_games/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     <item>
