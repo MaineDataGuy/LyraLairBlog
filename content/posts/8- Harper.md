@@ -6,7 +6,7 @@ title: Harper
 Date: 2025-02-09
 Draft?: false
 ---
-Another starter for you, this would I would actually love comments on, feel free to send me some feedback! writing@sambw.me
+Another starter for you, I would actually love comments on, feel free to send me some feedback! writing@sambw.me
 
 
 ## Harper
