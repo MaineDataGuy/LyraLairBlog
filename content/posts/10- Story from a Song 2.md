@@ -8,7 +8,7 @@ Draft?: false
 ---
 ### Premise
 
-You might remember from a couple weeks ago, my idea for a creative writing based on listening to a song [[6-Story from a Song]]. Well, this was the second idea that popped into my brain because of that, so I thought I would flesh it out a little more and share it.
+You might remember from a couple weeks ago, my idea for a creative writing based on listening to a song [Story from a Song ](https://blog.lyralair.com/posts/6-story-from-a-song/). Well, this was the second idea that popped into my brain because of that, so I thought I would flesh it out a little more and share it.
 
 Let me know your thoughts!  blogfeedback@sambw.me
 ### The Wish
