@@ -9,8 +9,22 @@
     <managingEditor>info@sambw.me (Sam Bennett-Williams)</managingEditor>
     <webMaster>info@sambw.me (Sam Bennett-Williams)</webMaster>
     <copyright>Sam Bennett-Williams</copyright>
-    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiction</title>
+      <link>/tags/fiction/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
+      <guid>/tags/fiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing_prompt</title>
+      <link>/tags/writing_prompt/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
+      <guid>/tags/writing_prompt/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog</title>
       <link>/tags/blog/</link>
@@ -26,24 +40,10 @@
       <description></description>
     </item>
     <item>
-      <title>Fiction</title>
-      <link>/tags/fiction/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/fiction/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sharpe_chronicles</title>
       <link>/tags/sharpe_chronicles/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
       <guid>/tags/sharpe_chronicles/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writing_prompt</title>
-      <link>/tags/writing_prompt/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><author>info@sambw.me (Sam Bennett-Williams)</author>
-      <guid>/tags/writing_prompt/</guid>
       <description></description>
     </item>
     <item>
