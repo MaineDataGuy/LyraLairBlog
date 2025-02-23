@@ -4,7 +4,7 @@ tags:
   - fiction
 title: Story from a Song
 Date: 2025-01-26
-Draft?: true
+Draft?: false
 ---
 # Premise
 

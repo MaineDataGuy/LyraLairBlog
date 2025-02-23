@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fiction/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/10--story-from-a-song-2/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/writing_prompt/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/blog/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
@@ -11,17 +26,8 @@
     <loc>/posts/9--humes-problem-of-induction-essay/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/writing/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/fiction/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/8--harper/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
@@ -33,9 +39,6 @@
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/6-story-from-a-song/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/writing_prompt/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/crafts/</loc>
